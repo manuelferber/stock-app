@@ -1,0 +1,13 @@
+{
+  "name": "stock-app",
+  "version": "1.0.0",
+  "description": "Aplicacion inventarios",
+  "main": "app.js",
+  "author": "manuel Bernal",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {}
+}
